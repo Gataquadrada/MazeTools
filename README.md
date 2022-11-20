@@ -25,7 +25,7 @@ Here is where you can download most utilities apps I created/use.
 > Before downloading this, you'll need to have [NodeJS](https://nodejs.org/en/download/) installed.  
 > It should be simple enough.
 
-[This Touch Portal Plugin](TouchPortal-VoiceMeeter/com.mazeakin.voicemeeter.tpp) will allow you to listen to common `VoiceMeeter Events` and use `Touch Portal Sliders` for adjusting your gain (volume).
+[This Touch Portal Plugin](TouchPortal-VoiceMeeter/) will allow you to listen to common `VoiceMeeter Events` and use `Touch Portal Sliders` for adjusting your gain (volume).
 
 <br />
 <br />
